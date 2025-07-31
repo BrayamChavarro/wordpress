@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+p{
+    width: 50%;
+    margin: 1% auto;
+    padding: 2%;
+    border: 2px solid rgb(71, 60, 2);
+    background-color: black;
+    color: aliceblue;
+    font-size: 24px;
+    text-align: center;
+}
+ 
